@@ -13,7 +13,7 @@
 ## Codes
 All source files are from the repository. We have modified those ones:
 * [**Testbench**](https://github.com/isabelgarciav/CPU-en-FPGA/blob/main/tb_tiny_CPU.vhd)
-* [**Vitis Application**]()
+* [**Vitis Application**](https://github.com/isabelgarciav/CPU-en-FPGA/blob/main/helloworld.c) (still working on it)
 
 ## Steps
 Follow the same steps described in the repository with the following changes:
@@ -24,4 +24,9 @@ Follow the same steps described in the repository with the following changes:
 * Delete the DDR external pin of the ZYNQ Processing System Block.
 * After adding the preset from the repository in Run Block Automatio deselect *Apply Board Preset*.
 * Before creating a wrapper *Generate Output Products* of the block design.
+
+## Top level design
+![image](https://github.com/user-attachments/assets/87beab06-dd04-4640-8b3c-736e3d2c7741)
+
+## Testbench results
 
