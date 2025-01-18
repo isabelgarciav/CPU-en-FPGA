@@ -29,4 +29,8 @@ Follow the same steps described in the repository with the following changes:
 ![image](https://github.com/user-attachments/assets/87beab06-dd04-4640-8b3c-736e3d2c7741)
 
 ## Testbench results
+![image](https://github.com/user-attachments/assets/4ce229cf-cc4d-4d39-91fa-d13969a8c465)
+![image](https://github.com/user-attachments/assets/a99af467-5264-4c86-b770-ce89b7b6784e)
+
+
 
