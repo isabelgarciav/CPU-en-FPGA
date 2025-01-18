@@ -1,5 +1,5 @@
 # CPU-in-FPGA
-# FPGA with Xilinx Vivado 2021.1
+### FPGA with Xilinx Vivado 2021.1
 
 **Authors:** Pilar Qin Ruiz Ortega and Isabel García Vázquez
 
