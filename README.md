@@ -17,8 +17,11 @@ All source files are from the repository. We have modified those ones:
 
 ## Steps
 Follow the same steps described in the repository with the following changes:
-* Delete the DDR external pin of the ZYNQ Processing System Block.
-* After adding the preset from the repository in Run Block Automatio deselect *Apply Board Preset*.
+### In Vivado
 * In the source file from the repository *tiny_CPU.vhd* assigned a default value to *instream_tinycpu_enable* signal. This line should look like this:
 
   > instream_tinycpu_enable:   in std_logic:='1';
+* Delete the DDR external pin of the ZYNQ Processing System Block.
+* After adding the preset from the repository in Run Block Automatio deselect *Apply Board Preset*.
+* Before creating a wrapper *Generate Output Products* of the block design.
+
