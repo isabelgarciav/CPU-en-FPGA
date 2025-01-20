@@ -12,7 +12,8 @@
 
 ## Codes
 All source files are from the repository. We have modified those ones:
-* [**Testbench**](https://github.com/isabelgarciav/CPU-en-FPGA/blob/main/tb_tiny_CPU.vhd)
+* [**Testbench for TinyCPU IP Package**](https://github.com/isabelgarciav/CPU-en-FPGA/blob/main/tb_tiny_CPU.vhd)
+* [**Testbench for the entire block diagram**](https://github.com/isabelgarciav/CPU-in-FPGA/blob/main/tb_general.vhd)
 * [**Vitis Application**](https://github.com/isabelgarciav/CPU-en-FPGA/blob/main/helloworld.c) (still working on it)
 
 ## Steps
